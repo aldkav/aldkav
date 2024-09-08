@@ -122,6 +122,3 @@
 
 ---
 
-I’m a Professor at HdM Stuttgart, where I help students and organizations to learn and use data science, statistics, and machine learning with Python and R programming to extract meaningful information from data. Please feel free to [contact me](https://www.kirenz.com/contact/) if you are interested in data science seminars or data science consulting.
-
-Copyright: Jan Kirenz (2021), Lizenz: [Creative Commons Attribution-NonCommercial 2.0 Generic (CC BY-NC 2.0) License](https://creativecommons.org/licenses/by-nc/2.0/)
