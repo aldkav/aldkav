@@ -1,9 +1,6 @@
 
 - [Learn the basics of AI](https://www.kirenz.com/project/intro-machine-learning/)
 
-<!--
-- [First steps in Data Science with Python & R](https://github.com/kirenz/data-science-projects)
--->
 
 ---
 
